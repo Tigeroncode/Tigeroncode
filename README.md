@@ -1,5 +1,5 @@
 ## Hi there 👋
-Kinda like my diary but the coding part
+Balls Balls Balls
 <!--
 **Tigeroncode/Tigeroncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
