@@ -10,13 +10,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+  <a href="https://www.linkedin.com/in/madhav-a-nair-6a7684220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="madhavanair18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
@@ -69,4 +66,4 @@ Here are some of the technologies I love to work with:
 - Serverless architectures for AI/ML model deployment.
 - Data Analytics and Automating SEO Tasks.
 
-Feel free to connect with me for a chat about technology, gaming, or anything in between!
+Feel free to connect with me for a chat about technology, gaming, or anything in between! 
