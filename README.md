@@ -1,17 +1,72 @@
-## Hi there 👋
-Still working
-<!--
-**Tigeroncode/Tigeroncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+    Hi there, I'm Madhav A Nair 
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  <h3>
+    Architecting Digital Experiences from Pixels to Petabytes
+  </h3>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-username/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
+---
+
+### 👨‍💻 About Me :
+
+I'm a technology enthusiast and a proud graduate of **VIT Chennai** with a deep passion for building comprehensive digital solutions. My expertise lies at the intersection of creative user experiences and robust, data-driven backend systems.
+
+- 🎨 I love crafting beautiful and intuitive user interfaces for the web (**Frontend**) and creating immersive worlds in **Game Design**.
+- ☁️ I architect and manage scalable, resilient infrastructure on **AWS**, ensuring applications run smoothly and efficiently (**CloudOps**).
+- 📊 I dive deep into large datasets to extract meaningful patterns and drive business decisions (**Big Data Analysis**).
+- 🧠 I design intelligent systems and pipelines, exploring the fascinating world of **AI Architecture**.
+- 🚀 And I make sure that the amazing things I build get discovered by the right people through strategic **SEO**.
+
+My goal is to blend these diverse skills to create products that are not only functional and powerful but also engaging and discoverable.
+
+---
+
+### 🛠️ My Tech Stack
+
+Here are some of the technologies I love to work with:
+
+| Frontend          | Game Design       | Cloud & DevOps      | Big Data & AI       | SEO & Tools         |
+|-------------------|-------------------|---------------------|---------------------|---------------------|
+| `JavaScript`      | `Unity`           | `AWS`               | `Python`            | `Google Analytics`  |
+| `TypeScript`      | `Unreal Engine`   | `Docker`            | `TensorFlow`        | `SEMrush`           |
+| `React` / `Next.js` | `C#` / `C++`      | `Kubernetes`        | `PyTorch`           | `Ahrefs`            |
+| `Vue.js`          | `Blender`         | `Terraform`         | `Apache Spark`      | `GTmetrix`          |
+| `HTML5` / `CSS3`  | `Figma`           | `CI/CD`             | `Pandas` / `NumPy`  | `Keyword Research`  |
+
+---
+
+### 🔥 My GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madhavanair&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavanair&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhavanair&theme=tokyonight" alt="madhavanair" />
+</p>
+
+---
+
+### 🌱 Currently Exploring
+
+- 2D Level design and beginner gameplay mechanics in game development.
+- Serverless architectures for AI/ML model deployment.
+- Data Analytics and Automating SEO Tasks.
+
+Feel free to connect with me for a chat about technology, gaming, or anything in between!
