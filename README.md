@@ -72,3 +72,5 @@ Here are some of the technologies I love to work with:
 - Data Analytics and Automating SEO Tasks.
 
 Feel free to connect with me for a chat about technology, gaming, or anything in between! 
+
+![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
