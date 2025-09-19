@@ -4,7 +4,7 @@
 ...
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN211MGlocjhhcXVpaG5ldmMzNHUyY2RlMTJnbzNjbDNmbWoycnpheCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z3ZzHIN66i7X6KAbxh/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Madhav A Nair 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
