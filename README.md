@@ -13,9 +13,7 @@
     Architecting Digital Experiences from Pixels to Petabytes
   </h3>
 </div>
-<div align = "center>
-  ![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
-  </div>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/madhav-a-nair-6a7684220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -66,7 +64,10 @@ Here are some of the technologies I love to work with:
 </p>
 
 ---
-
+<div >
+  ![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
+</div>
+  
 ### 🌱 Currently Exploring
 
 - 2D Level design and beginner gameplay mechanics in game development.
