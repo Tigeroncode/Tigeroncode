@@ -2,9 +2,11 @@
 
 <div id="header" align="center">
 ...
-![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
-
 <div id="header" align="center">
+  <div align = "center">
+    
+![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
+  </div>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
     Hi there, I'm Madhav A Nair 
