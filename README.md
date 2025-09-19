@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
 ...
+![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -73,4 +74,3 @@ Here are some of the technologies I love to work with:
 
 Feel free to connect with me for a chat about technology, gaming, or anything in between! 
 
-![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
