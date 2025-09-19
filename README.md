@@ -52,7 +52,7 @@ Here are some of the technologies I love to work with:
 | `HTML5` / `CSS3`  | `Figma`           | `CI/CD`             | `Pandas` / `NumPy`  | `Keyword Research`  |
 
 ---
-
+![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
 ### 🔥 My GitHub Stats
 
 <p align="center">
@@ -64,10 +64,7 @@ Here are some of the technologies I love to work with:
 </p>
 
 ---
-<div >
-  ![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
-</div>
-  
+
 ### 🌱 Currently Exploring
 
 - 2D Level design and beginner gameplay mechanics in game development.
