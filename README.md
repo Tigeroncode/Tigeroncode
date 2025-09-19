@@ -1,5 +1,5 @@
 ![My Profile Banner](https://github.com/Tigeroncode/Tigeroncode/blob/main/github-header-banner%20(1).png)
-
+![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
 <div id="header" align="center">
 ....
 <div id="header" align="center">
