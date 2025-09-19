@@ -1,7 +1,7 @@
 ![My Profile Banner](https://github.com/Tigeroncode/Tigeroncode/blob/main/github-header-banner%20(1).png)
 
 <div id="header" align="center">
-![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
+....
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1>
@@ -12,7 +12,9 @@
     Architecting Digital Experiences from Pixels to Petabytes
   </h3>
 </div>
-
+<div align = "center>
+  ![snake gif](https://github.com/Tigeroncode/Tigeroncode/blob/output/github-snake-dark.svg)
+  </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/madhav-a-nair-6a7684220/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
